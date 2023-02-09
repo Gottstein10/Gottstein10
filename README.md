@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gottstein10
-- 👀 I’m interested in Music, Technology, Playing guitar and some other stuffs .. 
-- 🌱 I’m currently learning Javascript, Node JS, Mongo DB .. 
-- 💞️ I’m looking to collaborate on Web Development 
+- 👀 I’m interested in Music, Technology,Guitar, solving problems and some other stuffs .. 
+- 🌱 I’m currently learning Data Science and Analytics .. 
+- 💞️ I’m looking to collaborate on Data Analysis 
 - 📫 How to reach me raphael.god@hotmail.com
 
 <!---
